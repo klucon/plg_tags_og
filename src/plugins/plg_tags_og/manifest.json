@@ -4,7 +4,7 @@
   "type": "plugin",
   "vendor": "klucon",
   "extension_id": "klucon/plg_tags_og",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "display_name": "Tagy - OpenGraph",
   "display_name_key": "extensions.name.plg_tags_og",
   "description": "Plugin pro OpenGraph a Twitter Card metadata podle tagu a obsahu.",
@@ -69,5 +69,5 @@
     "cs_CZ",
     "en_GB"
   ],
-  "changelog": "Initial scaffold."
+  "changelog": "Aktualizace dokumentace a rebuild balíčku pro GitHub distribuci."
 }
